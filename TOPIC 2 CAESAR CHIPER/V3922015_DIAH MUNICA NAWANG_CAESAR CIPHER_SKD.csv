@@ -1,0 +1,37 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,TUGAS SKD CAESAR CIPHER,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,KUNCI 1 : NAMA = DIAH MUNICA NAWANG,,,,,,,,,,,,,,,,,,,,,,,,,,
+,KUNCI 2 : IDOL = NEYMAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+,KUNCI 3 : MANTAN = FAJAR,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jawab :,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,K 1 :,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X ,Y,Z
+,,D,I,A,H,M,U,N,C,W,G,B,E,F,J,K,L,O,P,Q,R,S,T,V,X,Y,Z
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,K2 :,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X ,Y,Z
+,,N,E,Y,M,A,R,B,C,D,F,G,H,I,J,K,L,O,P,Q,S,T,U,V,U,X,Z
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,K3 :,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X ,Y,Z
+,,F,A,J,R,B,C,D,E,G,H,I,K,L,M,N,O,P,Q,S,T,U,V,W,X,Y,Z
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plainteks,Have Fun Studying Cryptography,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Loop 1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1
+,H,A,V,E,F,U,N,S,T,U,D,Y,I,N,G,C,R,Y,P,T,O,G,R,A,P,H,Y
+,E,N,V,B,R,S,M,Q,R,U,M,Y,G,J,N,J,P,Y,O,S,K,D,P,D,O,C,Y
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Loop 2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2
+,E,N,V,B,R,S,M,Q,R,U,M,Y,G,J,N,J,P,Y,O,S,K,D,P,D,O,C,Y
+,M,M,U,I,Q,Q,F,P,P,S,L,X,N,H,J,G,O,X,K,S,G,H,O,M,K,J,X
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Loop 3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3,K2,K1,K3
+,M,M,U,I,Q,Q,F,P,P,S,L,X,N,H,J,G,O,X,K,S,G,H,O,M,K,J,X
+,I,F,U,D,O,P,R,L,O,Q,E,X,J,C,H,B,K,X,G,Q,D,C,K,L,G,G,X
